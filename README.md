@@ -1,5 +1,11 @@
-![t](https://github-profile-trophy.vercel.app/?username=Sotaneum&theme=flat&row=1)
 
+####
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sotaneum&count_private=true&show_icons=true&hide_border=true&line_height=35" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sotaneum&layout=compact&count_private=true&langs_count=8&hide=ShaderLab,html&hide_border=true" />
+</p>
+     
 <!--
 **Sotaneum/Sotaneum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
